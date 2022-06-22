@@ -1,4 +1,19 @@
-### Hi there 👋
+### Yushiko Cloe Salvador
+
+<hr> 
+
+Hey, there! Call Me Yushiko. I'm a full-stack software engineer with a bias of frontend development. I enjoy working with React and Next.js, as well as learning new frameworks.
+
+Most of the time, I use the following technologies :
+- PostgreSQL
+- Express
+- React.js
+- Next.js
+- Node.js
+
+Experienced:  
+- Python
+- Typescript
 
 <!--
 **yushisalvador/yushisalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
