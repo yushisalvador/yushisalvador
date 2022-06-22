@@ -15,6 +15,8 @@ Experienced:
 - Python
 - Typescript
 
+I am currently learning how to build an app with React Native.
+
 <!--
 **yushisalvador/yushisalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
