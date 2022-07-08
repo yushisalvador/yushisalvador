@@ -17,6 +17,16 @@ Experienced:
 
 I am currently learning how to build a mobile app with React Native, and also exploring Vue & Nuxt.
 
+#### Interests: 
+- New frameworks 👀
+- Nature 🍃
+- KOREAN FRIED CHICKEN 🍗
+<br>
+
+![ChickenBreadedChickenGIF](https://user-images.githubusercontent.com/84162315/177953921-a677f5e4-7951-41e4-bb41-b3471b8857b4.gif)
+
+
+
 <!--
 **yushisalvador/yushisalvador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
