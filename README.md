@@ -15,7 +15,7 @@ Experienced:
 - Python
 - Typescript
 
-I am currently learning how to build a mobile app with React Native, and also exploring Vue & Nuxt.
+I am currently learning how to build a mobile app with React Native, and also exploring Vue & Nuxt. I'm also lookign for a new job opportunity, and also volunteering as a Frontend Engineer at Mamoru. 
 
 #### Interests: 
 - New frameworks 👀
