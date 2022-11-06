@@ -16,7 +16,7 @@ Experienced:
 - Typescript
 - Vue
 
-I am currently learning new techs such as React Native and Vue. I'm also looking for a new job opportunity, and also volunteering as a Frontend Engineer at Mamoru. 
+I'm currently working as a full stack software developer for a startup in Japan, and volunteering as a frontend developer for Mamoru. 
 
 #### Interests: 
 - New frameworks 👀
