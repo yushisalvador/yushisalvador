@@ -1,5 +1,3 @@
-### Yushiko Cloe Salvador
-
 <hr> 
 
 Hey, there! Call Me Yushiko. I'm a full-stack software engineer with a bias of frontend development. I enjoy working with React and Next.js, as well as learning new frameworks.
