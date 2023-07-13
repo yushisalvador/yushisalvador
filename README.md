@@ -14,7 +14,7 @@ Experienced:
 - Typescript
 - Vue
 
-I'm currently working as a full stack software developer for a startup in Japan, and volunteering as a frontend developer for Mamoru. 
+I'm currently working as a full stack software developer for a startup in Japan.
 
 #### Interests: 
 - New frameworks 👀
